@@ -1,2 +1,3 @@
 # Midal-Calculator
-This is a simple calculator like Xiaomi's calculator
+This is a simple calculator application like Xiaomi's calculator.
+using Objecthunter library for calculating 
